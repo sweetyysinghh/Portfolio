@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom background styles */
+.bg-custom {
+  background: linear-gradient(to right, #1c1c6c, #add8e6); /* Gradient from Persian Blue to Light Blue */
+}
+
+/* Example of additional custom styles */
+.text-custom {
+  color: #ffffff; /* Example custom text color */
+}
